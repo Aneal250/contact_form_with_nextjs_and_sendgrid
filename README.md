@@ -1,34 +1,24 @@
+
+
+## About
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+This a simple Front-End Project (React), which I  called 'SIMPLE CONTACT FORM' built with NextJs Framework. This is Simple component App where visitors can send messages directly to the email of the web Application owner. The message is receive via the email using [`sendgrid`](https://sendgrid.com/). Sendgrid is a great cloud platform solution for email delivery and communication. 
 
-First, run the development server:
+### Getting started
+- [`git clone https://github.com/Aneal250/TodoApp_TypeScript.git`](https://github.com/Aneal250/TodoApp_TypeScript.git) 
+- `npm install` 
+- `npm start`
+- Open [http://localhost:3000](http://localhost:3000) with your browser to see the web Application.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### Technologies/Language and Libraries used
+-	HTML
+-	CSS
+-	[Javascript]( https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+-   [`Nextjs`](https://nextjs.org/)
+-	[`sendgrid`](https://sendgrid.com/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Versions 
+### - V_1
+	The First Version of the App was built on April 2022.
